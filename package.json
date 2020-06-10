@@ -1,0 +1,18 @@
+{
+  "name": "market-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "lodash": "^4.17.15",
+    "telegraf": "^3.38.0"
+  }
+}
